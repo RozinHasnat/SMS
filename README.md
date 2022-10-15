@@ -1,2 +1,2 @@
 # SMS
-Thesis Project
+Undergrad Thesis Project
